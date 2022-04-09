@@ -1,0 +1,22 @@
+1.将xlua插件内与Assets目录同级的Tool文件夹拷贝到与该项目Assets目录同级下
+2.在Tool文件下拷贝Mono.Cecil ，Mono.Cecil.Mdb ，Mono.Cecil.Pdb 三个文件拷贝到该项目的XLua->Src->Editor下
+3.在playerSetting 里添加宏 HOTFIX_ENABLE
+4.CustomGenConfig 配置文件上加入热补丁对象
+   [Hotfix]
+    public static List<Type> HotFix = new List<Type>
+    {
+          ....
+          typeof(Test_HotFix)
+    };
+  
+    [LuaCallCSharp]
+    public static List<Type> LuaCallCSharp = new List<Type>() 
+    {
+           .....
+           typeof(Test_HotFix)
+     };
+
+
+5.点击Xlua Generate Code
+6.点击Hotfix inject in Editor
+7. 麻烦点，有时凡是改动C#代码，不管是哪个模块的，都需要重新 Clear Generate code -->Generate code -->HitFix，不然会lua报错

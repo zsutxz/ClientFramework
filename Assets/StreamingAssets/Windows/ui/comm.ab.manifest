@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3927195294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c8f4561e93893cfee23165088d2b447
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d8091dba6cd329addfdf79eaa5aa43e5
+HashAppended: 0
+ClassTypes:
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABResource/UI/Comm/subBase.png
+- Assets/ABResource/UI/Comm/sub3.png
+- Assets/ABResource/UI/Comm/exam.png
+- Assets/ABResource/UI/Comm/drill.png
+- Assets/ABResource/UI/Comm/transparent.png
+- Assets/ABResource/UI/Comm/sub2.png
+- Assets/ABResource/UI/Comm/teach.png
+- Assets/ABResource/UI/Comm/select.png
+Dependencies: []

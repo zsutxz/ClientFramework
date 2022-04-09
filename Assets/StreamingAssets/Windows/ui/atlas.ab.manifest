@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2120736359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69791f297092a823231b375e00bcc284
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f482d1115e1803eb3af0f87c71223fd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABResource/UI/Atlas/SpriteAtlas.spriteatlas
+Dependencies:
+- D:/Snicouk/TestSpace/MyFramework/Assets/StreamingAssets/Windows/ui/comm.ab
