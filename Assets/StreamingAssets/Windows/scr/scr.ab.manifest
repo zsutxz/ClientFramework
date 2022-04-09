@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 269096179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3033bb0bdb6424eae2123c8559912b1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABResource/Scr/UIRegsiterForm.txt
+- Assets/ABResource/Scr/LuaStart.txt
+- Assets/ABResource/Scr/UIDistrictForm.txt
+- Assets/ABResource/Scr/FormInit.txt
+- Assets/ABResource/Scr/Main.txt
+- Assets/ABResource/Scr/UICtrl.txt
+- Assets/ABResource/Scr/UIDefine.txt
+- Assets/ABResource/Scr/Define.txt
+- Assets/ABResource/Scr/UILoginForm.txt
+- Assets/ABResource/Scr/UIForm.txt
+- Assets/ABResource/Scr/UICtrlMgr.txt
+- Assets/ABResource/Scr/UILoginCtrl.txt
+- Assets/ABResource/Scr/UIDistrictCtrl.txt
+- Assets/ABResource/Scr/UIRegsiterCtrl.txt
+- Assets/ABResource/Scr/HotFix.txt
+Dependencies: []

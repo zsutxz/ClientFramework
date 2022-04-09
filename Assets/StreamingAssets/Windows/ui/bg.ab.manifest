@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3699877413
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 712a0020f62213ee8271fe30a4ee5467
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46bbd9da48cff8d17f0c89eef78da528
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABResource/UI/bg/UnityTutorial_Skybox05_4k.png
+- Assets/ABResource/UI/bg/Unity_skyboxBG01.png
+- Assets/ABResource/UI/bg/bgNormal.png
+Dependencies: []

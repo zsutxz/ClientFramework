@@ -1,0 +1,15 @@
+{
+"msg": "ui窗体配置json文件",
+"data":
+[ 
+ { "name":"UILoginForm",
+ "info": {"UIFormType":"Normal","UIFormShowType":"Normal","UIFormMaskType":"LucencyPlus","Prefab":"UILoginForm.prefab"}
+ },    
+{ "name":"UIDistrictForm",
+ "info": {"UIFormType":"Normal","UIFormShowType":"HideOther","UIFormMaskType":"LucencyPlus","Prefab":"UIDistrictForm.prefab"}
+ },    
+{ "name":"UIRegsiterForm",
+ "info": {"UIFormType":"Normal","UIFormShowType":"HideOther","UIFormMaskType":"LucencyPlus","Prefab":"UIRegsiterForm.prefab"}
+ }
+]
+}
